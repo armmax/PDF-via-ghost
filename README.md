@@ -5,9 +5,9 @@ Applescript by Jürgen Schell to compress PDF using GhostScript.
 
 Description : Use the GhosScripts Library and the ActionScripts Folder to compress the PDF in a very efficient manner: the quality almost stays the same and the weight is dramaticaly decreased.
 
-=============
-FOR MAC OS X User 
-=============
+
+**FOR MAC OS X User**
+
 The installation process takes time but you will save you much more time later, trust me.
 
 1. Download the GhostScript Package for MAC OS X under [that link](http://www.linuxfoundation.org/collaborate/workgroups/openprinting/macosx/foomatic) and install it. Forget the Foomatic RIP. 
@@ -27,5 +27,5 @@ Final step :
 2. Wait a few seconds until your file disappear from the folder
 3. Discover your compressed PDF in the "Compress_PDF/PDFs" subfolder
 
-Note : I originally got it online but I can't manage to find it again and Jürgen Schell's website http://www.j-schell.de is down. 
-So I decided to put it back online for everyone else to use.
+*Note : I originally got it online but I can't manage to find it again and Jürgen Schell's website http://www.j-schell.de is down. 
+So I decided to put it back online for everyone else to use.*
