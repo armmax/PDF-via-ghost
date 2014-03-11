@@ -15,12 +15,13 @@ The installation process takes time but you will save you much more time later, 
 3. In the spotlight search tool type "Terminal" and open a new window
 4. In the terminal, type the following command :
 ```
-mv ~/Desktop/PDFconvert.scpt /Library/Scripts/Folder\ Action\ Scripts/
+sudo mv ~/Desktop/PDFconvert.scpt /Library/Scripts/Folder\ Action\ Scripts/
 ```
-5. Create a new folder on your desktop and name it "Compress_PDF"
-6. Right Click on the "Compress_PDF" folder and then choose "Services -> Folder Actions Setup"
-7. In the pop-up, select the "PDFconvert.scpt" script 
-8. Select "Enable Folder Actions" and then quit (Command-Q)
+5. Enter your password
+6. Create a new folder on your desktop and name it "Compress_PDF"
+7. Right Click on the "Compress_PDF" folder and then choose "Services -> Folder Actions Setup"
+8. In the pop-up, select the "PDFconvert.scpt" script 
+9. Select "Enable Folder Actions" and then quit (Command-Q)
 
 Final step : 
 1. To compress a PDF, simply drag and drop it inside the "Compress_PDF" folder
