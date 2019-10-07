@@ -1,4 +1,4 @@
-PDF-via-ghost
+Compress PDF with Ghostscript on MacOS
 =============
 
 Applescript by Jürgen Schell to compress PDF using GhostScript. 
