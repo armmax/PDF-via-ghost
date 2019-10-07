@@ -10,7 +10,15 @@ Description : Use the GhosScripts Library and the ActionScripts Folder to compre
 
 The installation process takes time but you will save you much more time later, trust me.
 
-1. Download the GhostScript Package for MAC OS X under [that link](http://www.linuxfoundation.org/collaborate/workgroups/openprinting/macosx/foomatic) and install it. Forget the Foomatic RIP. 
+1. Install homebrew from https://brew.sh/ or just open your Terminal and type 
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+Follow the indication in the terminal.
+2. Once Homebrew is installed, type the following command in your Terminal
+```
+brew install ghostscript
+```
 2. Download the "PDFconvert" script from this repo and put it on your desktop
 3. In the spotlight search tool type "Terminal" and open a new window
 4. In the terminal, type the following command :
